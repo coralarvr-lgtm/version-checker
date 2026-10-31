@@ -1,1 +1,1 @@
-# version-checker
+0.1
